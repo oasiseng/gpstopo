@@ -1,0 +1,5 @@
+clients/
+confidential/
+
+flowcharts/*.png
+flowcharts/*.svg

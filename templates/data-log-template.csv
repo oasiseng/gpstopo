@@ -1,0 +1,2 @@
+record_id,date,time,operator,dataset_type,equipment,coordinate_system,notes,anomalies
+1,YYYY-MM-DD,HH:MM,Initials,GPS/Drone/LiDAR,Equipment Model,EPSG:####,"Brief description of collection activity","None"
